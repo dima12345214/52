@@ -1,0 +1,14 @@
+G:\novella\novella\bin\Debug\net9.0\novella.exe
+G:\novella\novella\bin\Debug\net9.0\novella.deps.json
+G:\novella\novella\bin\Debug\net9.0\novella.runtimeconfig.json
+G:\novella\novella\bin\Debug\net9.0\novella.dll
+G:\novella\novella\bin\Debug\net9.0\novella.pdb
+G:\novella\novella\obj\Debug\net9.0\novella.GeneratedMSBuildEditorConfig.editorconfig
+G:\novella\novella\obj\Debug\net9.0\novella.AssemblyInfoInputs.cache
+G:\novella\novella\obj\Debug\net9.0\novella.AssemblyInfo.cs
+G:\novella\novella\obj\Debug\net9.0\novella.csproj.CoreCompileInputs.cache
+G:\novella\novella\obj\Debug\net9.0\novella.dll
+G:\novella\novella\obj\Debug\net9.0\refint\novella.dll
+G:\novella\novella\obj\Debug\net9.0\novella.pdb
+G:\novella\novella\obj\Debug\net9.0\novella.genruntimeconfig.cache
+G:\novella\novella\obj\Debug\net9.0\ref\novella.dll
