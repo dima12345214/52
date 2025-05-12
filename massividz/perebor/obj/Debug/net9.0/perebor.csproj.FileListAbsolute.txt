@@ -1,0 +1,14 @@
+G:\302\perebor\bin\Debug\net9.0\perebor.exe
+G:\302\perebor\bin\Debug\net9.0\perebor.deps.json
+G:\302\perebor\bin\Debug\net9.0\perebor.runtimeconfig.json
+G:\302\perebor\bin\Debug\net9.0\perebor.dll
+G:\302\perebor\bin\Debug\net9.0\perebor.pdb
+G:\302\perebor\obj\Debug\net9.0\perebor.GeneratedMSBuildEditorConfig.editorconfig
+G:\302\perebor\obj\Debug\net9.0\perebor.AssemblyInfoInputs.cache
+G:\302\perebor\obj\Debug\net9.0\perebor.AssemblyInfo.cs
+G:\302\perebor\obj\Debug\net9.0\perebor.csproj.CoreCompileInputs.cache
+G:\302\perebor\obj\Debug\net9.0\perebor.dll
+G:\302\perebor\obj\Debug\net9.0\refint\perebor.dll
+G:\302\perebor\obj\Debug\net9.0\perebor.pdb
+G:\302\perebor\obj\Debug\net9.0\perebor.genruntimeconfig.cache
+G:\302\perebor\obj\Debug\net9.0\ref\perebor.dll
