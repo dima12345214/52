@@ -1,0 +1,4 @@
+G:\circlesssssss\circle\obj\Debug\net9.0\circle.GeneratedMSBuildEditorConfig.editorconfig
+G:\circlesssssss\circle\obj\Debug\net9.0\circle.AssemblyInfoInputs.cache
+G:\circlesssssss\circle\obj\Debug\net9.0\circle.AssemblyInfo.cs
+G:\circlesssssss\circle\obj\Debug\net9.0\circle.csproj.CoreCompileInputs.cache
