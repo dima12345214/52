@@ -1,0 +1,14 @@
+G:\412\method2\bin\Debug\net9.0\method2.exe
+G:\412\method2\bin\Debug\net9.0\method2.deps.json
+G:\412\method2\bin\Debug\net9.0\method2.runtimeconfig.json
+G:\412\method2\bin\Debug\net9.0\method2.dll
+G:\412\method2\bin\Debug\net9.0\method2.pdb
+G:\412\method2\obj\Debug\net9.0\method2.GeneratedMSBuildEditorConfig.editorconfig
+G:\412\method2\obj\Debug\net9.0\method2.AssemblyInfoInputs.cache
+G:\412\method2\obj\Debug\net9.0\method2.AssemblyInfo.cs
+G:\412\method2\obj\Debug\net9.0\method2.csproj.CoreCompileInputs.cache
+G:\412\method2\obj\Debug\net9.0\method2.dll
+G:\412\method2\obj\Debug\net9.0\refint\method2.dll
+G:\412\method2\obj\Debug\net9.0\method2.pdb
+G:\412\method2\obj\Debug\net9.0\method2.genruntimeconfig.cache
+G:\412\method2\obj\Debug\net9.0\ref\method2.dll

@@ -1,0 +1,14 @@
+G:\412\method3\bin\Debug\net9.0\method3.exe
+G:\412\method3\bin\Debug\net9.0\method3.deps.json
+G:\412\method3\bin\Debug\net9.0\method3.runtimeconfig.json
+G:\412\method3\bin\Debug\net9.0\method3.dll
+G:\412\method3\bin\Debug\net9.0\method3.pdb
+G:\412\method3\obj\Debug\net9.0\method3.GeneratedMSBuildEditorConfig.editorconfig
+G:\412\method3\obj\Debug\net9.0\method3.AssemblyInfoInputs.cache
+G:\412\method3\obj\Debug\net9.0\method3.AssemblyInfo.cs
+G:\412\method3\obj\Debug\net9.0\method3.csproj.CoreCompileInputs.cache
+G:\412\method3\obj\Debug\net9.0\method3.dll
+G:\412\method3\obj\Debug\net9.0\refint\method3.dll
+G:\412\method3\obj\Debug\net9.0\method3.pdb
+G:\412\method3\obj\Debug\net9.0\method3.genruntimeconfig.cache
+G:\412\method3\obj\Debug\net9.0\ref\method3.dll

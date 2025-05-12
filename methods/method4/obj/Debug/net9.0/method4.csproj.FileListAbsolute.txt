@@ -1,0 +1,14 @@
+G:\412\method4\bin\Debug\net9.0\method4.exe
+G:\412\method4\bin\Debug\net9.0\method4.deps.json
+G:\412\method4\bin\Debug\net9.0\method4.runtimeconfig.json
+G:\412\method4\bin\Debug\net9.0\method4.dll
+G:\412\method4\bin\Debug\net9.0\method4.pdb
+G:\412\method4\obj\Debug\net9.0\method4.GeneratedMSBuildEditorConfig.editorconfig
+G:\412\method4\obj\Debug\net9.0\method4.AssemblyInfoInputs.cache
+G:\412\method4\obj\Debug\net9.0\method4.AssemblyInfo.cs
+G:\412\method4\obj\Debug\net9.0\method4.csproj.CoreCompileInputs.cache
+G:\412\method4\obj\Debug\net9.0\method4.dll
+G:\412\method4\obj\Debug\net9.0\refint\method4.dll
+G:\412\method4\obj\Debug\net9.0\method4.pdb
+G:\412\method4\obj\Debug\net9.0\method4.genruntimeconfig.cache
+G:\412\method4\obj\Debug\net9.0\ref\method4.dll
