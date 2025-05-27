@@ -17,3 +17,7 @@
 <a href="https://github.com/dima12345214/52/tree/main/massividz">Массивы дз</a><br>
 ### Крестики-нолики: 
 <a href="https://github.com/dima12345214/52/tree/main/tictachoe">Крестики-нолики</a><br>
+### Крестики-нолики: 
+<a href="https://github.com/dima12345214/52/tree/main/tictachoe">Крестики-нолики</a><br>
+### Новелла:
+<a href="https://github.com/dima12345214/52/tree/main/novella">Новелла</a><br>
