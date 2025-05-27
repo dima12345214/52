@@ -13,3 +13,7 @@
 <a href="https://github.com/dima12345214/52/tree/main/methods/method4">Методы: четвертая задача</a><br>
 <a href="https://github.com/dima12345214/52/tree/main/methods/method5">Методы: пятая задача</a><br>
 <a href="https://github.com/dima12345214/52/blob/main/methods/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B.docx">Методы: Ответы на теоритеческие вопросы</a><br>
+### Массивы:
+<a href="https://github.com/dima12345214/52/tree/main/massividz">Массивы дз</a><br>
+### Крестики-нолики: 
+<a href="https://github.com/dima12345214/52/tree/main/tictachoe">Крестики-нолики</a><br>
